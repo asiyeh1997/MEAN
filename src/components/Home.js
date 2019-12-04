@@ -12,8 +12,6 @@ class Home extends Component {
         return (
             <div>
                 <p>Its good to be home</p>
-                {/* <img style={imageStyle} src="https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&h=350" /> */}
-
                 <img style={imageStyle} src= "https://picsum.photos/1600"></img>
             </div>
         )
